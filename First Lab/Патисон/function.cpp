@@ -6,7 +6,6 @@ int main()
 {
     double f;
     double min = 0;
-    double max = 0;
 
     for (double x = 0; x <= 2*M_PI; x = x + M_PI/4)
     {
